@@ -40,5 +40,5 @@ DataMap/
 
 # `main.py`程序逻辑
 
-![main_flow](D:\Learn_source\Deeplearning\DataMap\main_flow.png)
+![main_flow](./main_flow.png)
 
